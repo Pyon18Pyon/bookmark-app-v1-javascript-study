@@ -9,7 +9,7 @@ This website allows users to save bookmarks and be able to click on the links to
 ## Key features
 
 - Click an **ADD BOOKMARK** button to launch into a modal, and users can enter name and web address.
-- No need to enter *http* or *https* or even *www.*... 
+- No need to enter *http* or *https* or even *w-w.*... 
 - Click anywhere outside of the input area to close the modal. 
 - Able to delete an individual item from the list of bookmarks.
 - Populates favicons which is done dynamically.
