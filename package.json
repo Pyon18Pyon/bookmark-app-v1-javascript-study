@@ -1,0 +1,19 @@
+{
+  "name": "bookmark-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyon18Pyon/bookmark-app-v1-javascript-study.git"
+  },
+  "author": "Aya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pyon18Pyon/bookmark-app-v1-javascript-study/issues"
+  },
+  "homepage": "https://github.com/Pyon18Pyon/bookmark-app-v1-javascript-study#readme"
+}
